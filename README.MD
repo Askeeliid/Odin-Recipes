@@ -6,7 +6,7 @@ This project demonstrates core HTML skills, including structuring web pages, uti
 
 ## Live Demo
 
-[View Live Project](YOUR_LIVE_LINK_HERE)
+[View Live Project](https://askeeliid.github.io/odin-recipes/)
 
 ## Features
 
